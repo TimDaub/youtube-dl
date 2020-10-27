@@ -1,4 +1,4 @@
-![Alt text](master/assets/build_passing.png?raw=true "build passing")
+![build passing](https://github.com/TimDaub/youtube-dl/blob/master/assets/build_passing.png "build passing")
 
 youtube-dl - play doofus sounds from myself and not youtube.com or other platforms
 
@@ -18,9 +18,9 @@ youtube-dl - play doofus sounds from myself and not youtube.com or other platfor
 
 # CHANGES 
 
-You can view the changes made to ytdl-org/youtube-dl [here](https://github.com/timdaub/youtube-dl/compare/nothin...master)
+You can view the changes made to timdaub/youtube-dl [here](https://github.com/timdaub/youtube-dl/compare/nothin...master)
 
-You can view the archived tags here: [youtube-dl/releases](https://github.com/timdaub/youtube-dl/releases)
+You can view the archived tags here: [timdaub/releases](https://github.com/timdaub/youtube-dl/releases)
 
 You can view the archived unmerged pull requests here: [youtube-dl/tree/archive/recovered-github-prs](https://github.com/timdaub/youtube-dl/tree/archive/recovered-github-prs)
 
