@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [[ $(uname -s) == Darwin ]];then
+  afplay ../assets/justin_bieber-baby.aiff
+else 
+  play ../assets/cardy-b-wap.aiff
