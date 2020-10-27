@@ -1,4 +1,4 @@
-![Alt text](master/assets/build_passing.png?raw=true "build passing")
+![build passing](https://github.com/TimDaub/youtube-dl/blob/master/assets/build_passing.png "build passing")
 
 youtube-dl - play doofus sounds from myself and not youtube.com or other platforms
 
